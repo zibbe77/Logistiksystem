@@ -31,7 +31,7 @@ export class Produkter {
     namn;
     pris;
     vikt;
-    constructor() {}
+    // constructor() {}
 }
 
 export class Anstald {
